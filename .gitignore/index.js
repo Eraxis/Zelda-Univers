@@ -25,7 +25,7 @@ bot.on("message", async function(message) {
                 title: '',
                 fields: [{
                     name: "Lien d'invitation Discord",
-                    value: 'https://discord.gg/SJcYEhx',
+                    value: '',
                     inline: false
                 }]
             }
